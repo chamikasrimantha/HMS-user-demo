@@ -1,0 +1,208 @@
+.juk1 {
+  background-color: rgb(184, 175, 175);
+  width: 100%;
+  height: 1200px;
+  display: block;
+}
+
+.juk2 {
+  background-color: white;
+  width: 20%;
+  height: 330px;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 8px;
+  box-shadow: 3px 3px 10px 2px lightgray;
+}
+
+.immgg1 {
+  /* width: 70%;
+  height: 150px;
+  margin-left: 30px;
+  margin-top: 10px; */
+  margin-bottom: auto;
+  margin-top: auto;
+  height: 150px;
+  padding-top: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  border-radius: 50px 50px 30px 30px;
+  /* box-shadow: 0px 2px 15px 9px rgb(173, 171, 171); */
+}
+.pjuk1 {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 15px;
+}
+
+.hr {
+  margin-top: 15px;
+}
+
+.buy-button {
+  border: none;
+  border-radius: 6px;
+  width: 30%;
+  height: 30px;
+  margin-left: 15px;
+  background-color: #f9004d;
+  color: white;
+  text-decoration: none;
+  border: 2px solid transparent;
+  font-weight: bold;
+  transition: transform .4s;
+  cursor: pointer;
+}
+
+.buy-button:hover {
+  transform: scale(1.2);
+  background-color: black;
+  border: 2px solid yellow;
+  cursor: pointer;
+}
+
+.cart-button {
+  border: none;
+  border-radius: 6px;
+  background-color: rgb(17, 176, 17);
+  width: 50%;
+  height: 30px;
+  margin-left: 13px;
+  color: white;
+  text-decoration: none;
+  border: 2px solid transparent;
+  font-weight: bold;
+  transition: transform .4s;
+  cursor: pointer;
+
+}
+
+.cart-button:hover {
+  transform: scale(1.2);
+  background-color: black;
+  border: 2px solid yellow;
+  cursor: pointer;
+}
+
+.form1 {
+  margin-top: 30px;
+}
+
+.juk3 {
+  background-color: white;
+  width: 20%;
+  height: 330px;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 8px;
+  box-shadow: 3px 3px 10px 2px lightgray;
+}
+
+.juk4 {
+  background-color: white;
+  width: 20%;
+  height: 330px;
+  margin-left: 490px;
+  margin-top: -680px;
+  border-radius: 8px;
+  box-shadow: 3px 3px 10px 2px lightgray;
+}
+
+.juk5 {
+  background-color: white;
+  width: 20%;
+  height: 330px;
+  margin-left: 490px;
+  margin-top: 20px;
+  border-radius: 8px;
+  box-shadow: 3px 3px 10px 2px lightgray;
+}
+
+.juk6 {
+  background-color: white;
+  width: 20%;
+  height: 330px;
+  margin-left: 960px;
+  margin-top: -680px;
+  border-radius: 8px;
+  box-shadow: 3px 3px 10px 2px lightgray;
+}
+
+.juk7 {
+  background-color: white;
+  width: 20%;
+  height: 330px;
+  margin-left: 960px;
+  margin-top: 20px;
+  border-radius: 8px;
+  box-shadow: 3px 3px 10px 2px lightgray;
+}
+
+.juk8 {
+  background-color: white;
+  width: 20%;
+  height: 330px;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 8px;
+  box-shadow: 3px 3px 10px 2px lightgray;
+}
+
+.juk9 {
+  background-color: white;
+  width: 20%;
+  height: 330px;
+  margin-left: 490px;
+  margin-top: -330px;
+  border-radius: 8px;
+  box-shadow: 3px 3px 10px 2px lightgray;
+}
+
+.juk10 {
+  background-color: white;
+  width: 20%;
+  height: 330px;
+  margin-left: 960px;
+  margin-top: -330px;
+  border-radius: 8px;
+  box-shadow: 3px 3px 10px 2px lightgray;
+}
+
+.shopping-online {
+  text-align: center;
+  font-size: x-large;
+  font-family: monospace;
+}
+
+
+.shopping-online1 {
+  text-align: center;
+  font-size: large;
+  font-family: monospace;
+  margin-top: 10px;
+}
+
+.hhhh1 {
+  color: rgb(220, 23, 23);
+  transition-duration: 2s;
+  animation-name: a;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  font-size: 30px;
+}
+
+@keyframes a {
+
+  from {
+    color: red;
+
+  }
+
+  to {
+    color: blue;
+
+  }
+
+}
